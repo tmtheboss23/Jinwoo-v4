@@ -3,7 +3,7 @@
     "description": "whatsapp user bot",
     "logo": "https://i.imgur.com/WnKjrJt.jpeg",
     "keywords": ["bot"],
-    "documentation-link": "",
+    "documentation-link": "https://deploy-site-blush.vercel.app/",
     "owner-verification":"malvink002@gmail.com",
   
       "env": {
