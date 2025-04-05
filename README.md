@@ -28,7 +28,10 @@
 
 ## Deploy Options Setup
 
-1. **Fork the repository** to your GitHub account.
+1. **To set up the JINWOO V4 quickly, first fork this repository:**
+ 
+- [![JINWOO V4 Github Repo](https://img.shields.io/badge/Jinwoo-Fork%20Repo-red?style=for-the-badge&logo=git)](https://github.com/XdKing2/Jinwoo-v4/fork)
+
 2. **Scan QR** or pair via the [Jinwoo Portal](https://deploy-site-blush.vercel.app/).
 3. Session saved to **MEGA** using `SESSION_ID`.
 
