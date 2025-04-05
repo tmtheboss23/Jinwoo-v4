@@ -1,3 +1,5 @@
+
+
 import { createHash } from 'crypto'
 import PhoneNumber from 'awesome-phonenumber'
 import { canLevelUp, xpRange } from '../lib/levelling.js'
@@ -8,8 +10,8 @@ import moment from 'moment-timezone'
 import { promises } from 'fs'
 import { join } from 'path'
 const OwnerName = process.env.OWNER_NAME || 'Malvin King';
-const BOTNAME = process.env.BOTNAME || 'Jinwoo-v4;
-const timeZone = process.env.TIME_ZONE || 'Africa/Nairobi';
+const BOTNAME = process.env.BOTNAME || 'Jinwoo-v4';
+const timeZone = process.env.TIME_ZONE || 'Asia/Kolkata';
 const time = moment.tz(timeZone).format('HH');
 let wib = moment.tz(timeZone).format('HH:mm:ss');
 
@@ -41,6 +43,8 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
 
+📋 *_Quote of the day: ${quote}_* 📋
+
 
 ╭──❍「 *Usᴇʀ Iɴғᴏ* 」❍
 ┊• 👤 *ᴏᴡɴᴇʀ:* ${OwnerName}
@@ -58,9 +62,6 @@ let str = `
 ┊• 💌  *ᴅᴀᴛᴀʙᴀsᴇ:* ${rtotalreg} of ${totaluser} 
 ┊• 📚  *Tᴏᴛᴀʟ ᴜsᴇʀs:* ${totaluser}
 ╰───★─☆─♪♪─❍
-
-📋 *_Quote of the day: ${quote}_* 📋
-
 
 ╭─❍「 *MAIN MENU* 」❍
 ┋• *allmenu*
@@ -95,7 +96,7 @@ let str = `
 ┋• *ownermenu*
 ┋• *setprivacy*
 ╰──★─☆───❍
-> _© *ᴊɪɴᴡᴏᴏ ᴠ4*_
+_© *ᴊɪɴᴡᴏᴏ ᴠ4*_
 
 > 💡 *_Remember, when in doubt, use ${usedPrefix}listmenu or ${usedPrefix}help It's like my magic spell book!_* 💡
 `
@@ -122,7 +123,7 @@ function clockString(ms) {
     return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')}
     
     function ucapan() {
-      const time = moment.tz('Africa/Nairobi').format('HH')
+      const time = moment.tz('Asia/Kolkata').format('HH')
       let res = "happy early in the day☀️"
       if (time >= 4) {
         res = "Good Morning 🌄"
@@ -188,3 +189,4 @@ function clockString(ms) {
       "I'm not saying I'm Spider-Man. I'm just saying no one has ever seen me and Spider-Man in the same room together.",
       "I'm not saying I'm a superhero. I'm just saying no one has ever seen me and a superhero in the same room together."
       ];
+
