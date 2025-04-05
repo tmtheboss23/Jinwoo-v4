@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i++) {
 //
 global.botname = process.env.BOTNAME || 'ᴊɪɴᴡᴏᴏ ᴠ4';
 global.pairingNumber = process.env.BOT_NUMBER || '263780166288' ;  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || '' ;  // put your session id here
+global.SESSION_ID = process.env.SESSION_ID || 'i4wnHboS#KjHlXXXQay70ERcIKZWOlUT8-_BhzcKkCXI_rgrDpW4' ;  // put your session id here
 
 global.mods = []
 global.prems = []
@@ -42,7 +42,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z'
+global.canal = 'https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A'
 
 
 global.APIs = {
@@ -77,8 +77,8 @@ global.packname = 'ᴊɪɴᴡᴏᴏ ᴠ4'
 global.author = 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
 global.menuvid = 'https://i.imgur.com/2Sp3cqD.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/Techlord01'
-global.dygp = 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z'
-global.fgsc = 'https://github.com/kingmalvn/Jinwoo-v4'
+global.dygp = 'https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A'
+global.fgsc = 'https://github.com/XdKing2/Jinwoo-v4'
 global.fgyt = 'https://youtube.com/@malvintech2'
 global.fgpyp = 'https://github.com/kingmalvn'
 global.fglog = 'https://files.catbox.moe/bqs70b.jpg'
