@@ -10,34 +10,37 @@
 ---
 
 ## Features
-<details/>
-- Anime-style menus
-- ChatGPT AI integration
-- Sticker maker (photo/video/audio)
-- Downloaders (YouTube, TikTok, IG)
-- Anti-link, anti-badword, welcome/goodbye
-- Text-to-speech & voice-to-text
-- Plugin system via Malvin Framework
-- Games, group tools, fun commands
-- Secure session via MEGA
----
-</details>
-  
-## ## Deploy Options Setup
+<details>
+<summary>Click to see full list of features</summary>
+- **Anime-style menus**  
+- **ChatGPT AI integration**  
+- **Sticker maker** (photo/video/audio)  
+- **Downloaders** (YouTube, TikTok, Instagram)  
+- **Anti-link, anti-badword, welcome/goodbye**  
+- **Text-to-speech & voice-to-text**  
+- **Plugin system via Malvin Framework**  
+- **Games, group tools, fun commands**  
+- **Secure session via MEGA**  
 
-1. Make Sure you have forked the repo
-2. Scan QR or pair via Jinwoo Portal
-3. Session saved to MEGA using `SESSION_ID`
+</details>
+
+---
+
+## Deploy Options Setup
+
+1. **Fork the repository** to your GitHub account.
+2. **Scan QR** or pair via the [Jinwoo Portal](https://deploy-site-blush.vercel.app/).
+3. Session saved to **MEGA** using `SESSION_ID`.
 
 ---
 
 ## Jinwoo Portal
-> **Deploy Site*
+
+> **Deploy Site**
+
 <p align="left">  
 <a href='https://deploy-site-blush.vercel.app/' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20Site-FF004D?style=for-the-badge&logo=github&logoColor=white'/></a>  
 </p>
-
-
 
 > Matrix-style UI for pairing and chatting
 
@@ -54,9 +57,4 @@ Telegram: [t.me/malvintech](https://t.me/malvintech)
 ---
 
 ## License
-
-```
-MIT License
-Copyright (c) 2025 Malvin King
-```
 
