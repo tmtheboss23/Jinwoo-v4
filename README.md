@@ -10,7 +10,7 @@
 ---
 
 ## Features
-
+<details/>
 - Anime-style menus
 - ChatGPT AI integration
 - Sticker maker (photo/video/audio)
@@ -21,7 +21,8 @@
 - Games, group tools, fun commands
 - Secure session via MEGA
 ---
-
+</details>
+  
 ## ## Deploy Options Setup
 
 1. Make Sure you have forked the repo
