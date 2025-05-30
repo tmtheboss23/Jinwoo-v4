@@ -1,14 +1,14 @@
 {
   "name": "Jinwoo-v4",
   "description": " Whatsapp Ai",
-  "repository": "https://github.com/kingmalvn/Jinwoo-v4",
+  "repository": "https://github.com/XdKing2/Jinwoo-v4",
   "logo": "https://files.catbox.moe/bqs70b.jpg",
-  "success_url": "https://github.com/kingmalvn/Jinwoo-v4",
+  "success_url": "https://github.com/XdKing2/Jinwoo-v4",
   "keywords": [
     "whatsapp Ai", "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
     "termux", "superbot", "multi-device", "md", "official", "javascript", "tohid-ai-bot"
   ],
-  "repository": "https://github.com/kingmalvn/Jinwoo-v4",
+  "repository": "https://github.com/XdKing2/Jinwoo-v4",
   "stack": "container",
   "env": {
     "OWNERS": {

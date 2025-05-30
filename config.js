@@ -20,8 +20,8 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'ᴊɪɴᴡᴏᴏ ᴠ4';
-global.pairingNumber = process.env.BOT_NUMBER || '263780166288' ;  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || 'i4wnHboS#KjHlXXXQay70ERcIKZWOlUT8-_BhzcKkCXI_rgrDpW4' ;  // put your session id here
+global.pairingNumber = process.env.BOT_NUMBER || '' ;  // put your number here
+global.SESSION_ID = process.env.SESSION_ID || '' ;  // put your session id here
 
 global.mods = []
 global.prems = []
@@ -80,7 +80,7 @@ global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/Techlord01'
 global.dygp = 'https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A'
 global.fgsc = 'https://github.com/XdKing2/Jinwoo-v4'
 global.fgyt = 'https://youtube.com/@malvintech2'
-global.fgpyp = 'https://github.com/kingmalvn'
+global.fgpyp = 'https://github.com/XdKing2'
 global.fglog = 'https://files.catbox.moe/bqs70b.jpg'
 global.thumb = fs.readFileSync('./assets/jin.jpg')
 

@@ -3,7 +3,7 @@
     "description": "whatsapp user bot",
     "logo": "https://i.imgur.com/WnKjrJt.jpeg",
     "keywords": ["bot"],
-    "documentation-link": "https://jinwoo-pair-vb8f.onrender.com/",
+    "documentation-link": "https://deploy-site-blush.vercel.app/",
     "owner-verification":"malvink003@gmail.com",
   
       "env": {
@@ -15,7 +15,7 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "Jinwoo-v4"
+      "value": "JINWOO-V4"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
@@ -105,7 +105,7 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Mr Malvin"
+      "value": "Mr Tohid"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
