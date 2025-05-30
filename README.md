@@ -92,9 +92,10 @@ To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
 
      [![Jinwoo v4 Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://jinwoo-pair-vb8f.onrender.com/pair)
 
-### DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
+#### 🧩 Session App
 
-<a href='https://jinwoo-pair-vb8f.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
+[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://jinwoo-pair-vb8f.onrender.com/)
+
 
 ### **Step-by-Step Deployment Guide**
 
@@ -154,7 +155,13 @@ To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
    <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank">
       <img alt='Deploy in Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
    </a>
+5. Click the button below to deploy using Talkdrove:
+   <br>
+   <a href='https://host.talkdrove.com/auth/signup?ref=542313CE' target="_blank">
+      <img alt='Deploy in Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
+   </a>
    
+    
       **Tutorial For Panel**
 1. First You Have to Sign up on discord using web or app download from playstore.
    <br>
