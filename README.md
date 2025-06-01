@@ -42,139 +42,127 @@ Jinwoo-v4 BY Malvin King 🩵
 </p>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-----
-<h1 align="center"> EXTERNAL PLUGINS </h1>
+--------
+<h1 align="center">EXTERNAL PLUGINS</h1>
 
-> coming soon
-
-----
- <h2 align="center">  NOTE
-</h2>
-
-#### No Worries If You Don't Have pre connection/SESSION_ID , Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '26379099XXX' , Either In config.js or .env file , And Deploy The Bot, You'll Get A Pairing Code Directly In The Terminal at The End Of Deployment, Pair And Get Connected.
-
-----
-
-
-<details>
-<summary>## 🎬 Watch the Tutorial</summary>
-
-
-To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
-[![Jinwoo-v4 YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@malvintech2)
+> Coming soon...
 
 ---
-</details>
+
+<h2 align="center">📌 NOTE</h2>
+
+#### No worries if you don't have a pre-connection or SESSION_ID.  
+Simply set your number as `BOT_NUMBER = '26379099XXX'` in either `config.js` or `.env` file, then deploy the bot.  
+A pairing code will be displayed in the terminal. Just scan it to connect.
+
+---
 
 <details>
-<summary>## Features</summary>
+<summary>🎬 Watch the Tutorial</summary>
 
-- **Autoreact**: If You enables, Bot Will Reats With **Beautiful Random Emojis** On All Messages In All Chats.
-- **Stickers**: A Rainbow Of Stickers Waiting For You.
-- **Downloader**: Download images,files or video from Varoius Platforms links.
-- **Games**: A gaming arena for you to play.
-- **Interactive Polls**: Create **Would You Rather** polls with randomized options.
-- **Audio Editor** Tune Mp3/Audio ,Voices As You Wish.
-- **Imagen Ai** Many Image Generator**AI Models** Will Generates Images And Designs Based On Your **Prompts/text**.
-- **Reactions**: A Secret Reations Menu For Group.
----
+To quickly set up Jinwoo-v4, watch the full tutorial:
+
+[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@malvintech2)
+
 </details>
 
-## Deployment Options
+---
 
-### **Fork & Star the Repository**
-   - Start by forking this repository and giving it a ⭐ to support XdKing2!
-     To set up the JINWOO V4 quickly, first fork this repository:
-[![JINWOO V4 Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/XdKing2/Jinwoo-v4/fork)
+<details>
+<summary>✨ Features</summary>
 
-### **PAIRING CODE QR CODE**
-   - Visit the bot site to generate a pairing code and get **SESSION ID.**
+- **Autoreact**: Bot reacts to all messages with random beautiful emojis.
+- **Stickers**: Tons of custom stickers available.
+- **Downloader**: Download videos, files, or images from various platforms.
+- **Games**: Fun game commands available.
+- **Interactive Polls**: Create “Would You Rather” polls with randomized options.
+- **Audio Editor**: Edit and modify MP3s and voices easily.
+- **Image AI**: Generate images and designs from text prompts using AI models.
+- **Reactions**: Secret group reaction features.
 
-     [![Jinwoo v4 Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://jinwoo-pair-vb8f.onrender.com/pair)
+</details>
 
-#### 🧩 Session App
+---
+
+## 🚀 Deployment Options
+
+### ⭐ Fork & Star the Repository
+Fork this repo and give it a ⭐ to support Malvin King!
+
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/XdKing2/Jinwoo-v4/fork)
+
+---
+
+### 🔌 Pairing Code / Session Generator
+
+[![Pair Code](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://jinwoo-pair-vb8f.onrender.com/pair)
 
 [![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://jinwoo-pair-vb8f.onrender.com/)
 
-
-### **Step-by-Step Deployment Guide**
-
-**Option A: Deploy on Heroku**
-1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
-2. Click the button below to deploy directly on Heroku:
-   <br>
-   <a href='https://dashboard.heroku.com/new?template=https://github.com/XdKing2/Jinwoo-v4' target="_blank">
-      <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
-   </a>
-
-**Option B: Deploy on Koyeb**
-1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
-3. Deploy your app using the button below:
-   <br>
-   <a href='https://github.com/XdKing2/Jinwoo-v4' target="_blank">
-      <img alt='Deploy on Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
-   </a>
-
-**Option C: Deploy on Railway**
-1. [Create an Account on Railway](https://railway.app/login) if you don’t have one.
-2. Click the button below to deploy using Railway:
-   <br>
-   <a href='https://railway.app/login' target="_blank">
-      <img alt='Deploy on Railway' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/>
-   </a>
-
-**Option D: Deploy on Toystack**
-1. [Create an Account on Toystack](https://toystack.ai) if you don’t have one.
-2. Click the button below to deploy using Toystack:
-   <br>
-   <a href='https://toystack.ai' target="_blank">
-      <img alt='Toystack' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=toystack&logoColor=white'/>
-   </a>
-
-**Option E: Deploy on Render**
-1. [Create an Account on Render](https://dashboard.render.com/register) if you don’t have one.
-2. Click the button below to deploy using Render:
-   <br>
-   <a href='https://dashboard.render.com' target="_blank">
-      <img alt='Deploy on Render' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/>
-   </a>
-   
-   **Option F: Deploy on Replit**
-1. [Create an Account on Replit](https://repl.it) if you don’t have one.
-2. Click the button below to deploy using Replit:
-   <br>
-   <a href='https://repl.it/github/XdKing2/Jinwoo-v4' target="_blank">
-      <img alt='Deploy on Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
-   </a>
-   
-    **Option G: Deploy on Panel**
- 1. First You Have to Sign up on discord using web or app then click below.
-2. [Sign Up On Panel](https://bot-hosting.net/?aff=1097457675723341836) if you don’t have Already.
-4. Click the button below to deploy using Panel:
-   <br>
-   <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank">
-      <img alt='Deploy in Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
-   </a>
-5. Click the button below to deploy using Talkdrove:
-   <br>
-   <a href='https://host.talkdrove.com/auth/signup?ref=542313CE' target="_blank">
-      <img alt='Deploy in Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
-   </a>
-   
-    
-      **Tutorial For Panel**
-1. First You Have to Sign up on discord using web or app download from playstore.
-   <br>
-   <a href='https://youtube.com/@malvintech2' target="_blank">
-      <img alt='Deployment Tutorial' src='https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/>
-   </a>
-   
 ---
 
------------
+### 🛠 Step-by-Step Deployment Guide
 
-### <br>   ❖ DEPLOY_WORKFLOWS ❖
-```
+#### 🟣 Heroku
+- [Sign up](https://signup.heroku.com/)
+- Deploy directly:
+
+[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/Jinwoo-v4)
+
+---
+
+#### 🔴 Koyeb
+
+[![Deploy on Koyeb](https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white)](https://github.com/XdKing2/Jinwoo-v4)
+
+---
+
+#### 🟪 Railway
+
+[![Deploy on Railway](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/login)
+
+---
+
+#### 🔵 Toystack
+
+[![Deploy on Toystack](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=toystack&logoColor=white)](https://toystack.ai)
+
+---
+
+#### ⚫ Render
+
+[![Deploy on Render](https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com)
+
+---
+
+#### 🟠 Replit
+
+[![Deploy on Replit](https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white)](https://repl.it/github/XdKing2/Jinwoo-v4)
+
+---
+
+#### 🟢 Panel 
+
+[![Deploy on Panel](https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://bot-hosting.net/?aff=1097457675723341836)
+
+---
+
+### 🟢 Talkdrove
+
+[![Deploy on Talkdrove](https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://host.talkdrove.com/auth/signup?ref=542313CE)
+---
+
+🎥 **Tutorial for Panel Setup**  
+1. Sign up on Discord (via app or web)  
+2. Watch the YouTube setup guide:
+
+[![YouTube Tutorial](https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+
+---
+
+## ⚙️ DEPLOY_WORKFLOWS
+
+```yaml
 name: Node.js CI
 
 on:
@@ -187,28 +175,25 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         node-version: [20.x]
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    - name: Start application
-      run: npm start
 ```
+
 
 -----------
 <details>
@@ -343,11 +328,16 @@ Create Polls: Start a "Would You Rather" poll by typing wyr followed by two opti
 ### 🤝 How to Contribute
 We welcome contributions to Jinwoo-v4 Bot! Here's how you can get involved:
 
-Fork the repository.
-Create a new branch for your feature.
-Commit your changes.
-Push your branch to your forked repository.
-Submit a pull request with a detailed description of your changes.
+## 🛠️ Contributing
+
+- Fork the repository.
+- Create a new branch for your feature or fix.
+- Commit your changes with a clear and concise message.
+- Push your branch to your forked repository.
+- Open a pull request with a detailed description of your changes.
+
+---
+
 ### 🧑‍💻 Connect with the Developer
 
 <p align="center">
@@ -364,8 +354,13 @@ Submit a pull request with a detailed description of your changes.
     <img src="https://img.shields.io/badge/YouTube-@malvintech2-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
+
+---
+
 ### 📄 License
-This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICENSE file for details.
+
+This project is licensed under the [Apache-2.0 License](LICENSE). See the LICENSE file for more details.
+
 
 </details>
 
@@ -493,5 +488,3 @@ npm start
 <p align="center">
   
 [![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A)
-
---------
