@@ -197,7 +197,7 @@ jobs:
 
 -----------
 <details>
-<summary>## Support & Community
+<summary>Support & Community
 </summary>
 
 <p align="center">Need help? Create an <a href="https://github.com/XdKing2/Jinwoo-v4/issues">issue</a> or <a href="https://wa.me/263780934873?text=Hello+Malvin+King,+I+need+assistance+with+Jinwoo+v4+Bot">Contact Us on WhatsApp</a>.</p>
@@ -216,7 +216,7 @@ jobs:
 </details>
 
 <details>
-<summary>### 💡 About Jinwoo-v4 </summary>
+<summary> 💡 About Jinwoo-v4 </summary>
 
 **Jinwoo-v4** is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the **Baileys API**, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
 
@@ -231,7 +231,7 @@ Key features include:
 ---
 </details>
 
-### 🚀 Installation
+## 🚀 Installation
 
 To get started with this project, follow the steps below:
 
@@ -241,7 +241,7 @@ To get started with this project, follow the steps below:
 ---
 
 <details>
-<summary>### 💥 Features</summary>
+<summary> 💥 Features</summary>
 
 
 🌅 *.botmenu* - The Bot's secret control panel.
@@ -381,7 +381,7 @@ This project is licensed under the [Apache-2.0 License](LICENSE). See the LICENS
 
 <p align="center">
 <details>
-<summary>7. #### DEPLOY IN TERMUX/UBUNTU</summary>
+<summary>7.  DEPLOY IN TERMUX/UBUNTU</summary>
   
  
  
