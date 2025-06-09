@@ -95,9 +95,9 @@ Fork this repo and give it a ⭐ to support Malvin King!
 
 ### 🔌 Pairing Code / Session Generator
 
-[![Pair Code](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://jinwoo-pair-vb8f.onrender.com/pair)
+[![Pair Code](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://jinwoo-pair-j0v0.onrender.com/pair)
 
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://jinwoo-pair-vb8f.onrender.com/)
+[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://jinwoo-pair-j0v0.onrender.com)
 
 ---
 
